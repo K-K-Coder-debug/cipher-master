@@ -80,6 +80,6 @@ pip install pyinstaller
 # Compile no Windows
 pyinstaller --onefile cypher-master.py --noconsole --windowed
 ```
-## Feito com 💚 por [K_KCoder](https://www.google.com).
+## Feito com 💚 por [K_KCoder](https://https://github.com/K-K-Coder-debug).
 Você pode usar, modificar e distribuir livremente.
 Se gostou, deixe uma ⭐ no projeto!
