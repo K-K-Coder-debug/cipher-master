@@ -57,7 +57,7 @@ Tkinter (normalmente já vem com Python).
 
 Passos:
 ```bash
-git clone https://github.com/SEU_USUARIO/cipher-master.git
+git clone https://github.com/K-K-Coder-debug/cipher-master.git
 cd cipher-master
 python3 cipher_master_gui.py
 ```
