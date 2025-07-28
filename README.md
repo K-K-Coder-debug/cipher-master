@@ -22,9 +22,9 @@
 
 | Sistema | Download |
 |--------|----------|
-| 🪟 Windows | [Clique aqui para baixar](https://github.com/K-K-Coder-debug/cipher-master/releases/download/cipher-master/cypher-master-x64.exe) |
-| 🐧 Linux | [Clique aqui para baixar](https://github.com/K-K-Coder-debug/cipher-master/releases/download/cipher-master/cypher-master.py) |
-| 🍎 Mac | [Clique aqui para baixar](https://github.com/K-K-Coder-debug/cipher-master/releases/download/cipher-master/cypher-master.py) |
+| 🪟 Windows | [Clique aqui para baixar](https://github.com/K-K-Coder-debug/cipher-master/releases/download/cipher-master-v1/cypher-master.exe) |
+| 🐧 Linux | [Clique aqui para baixar](https://github.com/K-K-Coder-debug/cipher-master/releases/download/cipher-master-v1/cypher-master.py) |
+| 🍎 Mac | [Clique aqui para baixar](https://github.com/K-K-Coder-debug/cipher-master/releases/download/cipher-master-v1/cypher-master.py) |
 
 
 
