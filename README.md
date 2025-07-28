@@ -3,7 +3,7 @@
 **Cipher Master** é uma poderosa ferramenta de criptografia e descriptografia com interface gráfica moderna. Feito em Python com Tkinter, ele suporta múltiplos tipos de cifras — incluindo uma cifra secreta que **só o app pode decifrar**.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/0000000/banner.png" alt="Cipher Master Banner" width="600"/>
+  <img src="https://github.com/K-K-Coder-debug/cipher-master/blob/main/banner.png" alt="Cipher Master Banner" width="600"/>
 </p>
 
 ## 🔐 Funcionalidades
