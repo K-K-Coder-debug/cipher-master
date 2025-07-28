@@ -22,7 +22,7 @@
 
 | Sistema | Download |
 |--------|----------|
-| 🪟 Windows | [Clique aqui para baixar](https://github.com/K-K-Coder-debug/cipher-master/releases/tag/cipher-master/cypher-master-x64.exe) |
+| 🪟 Windows | [Clique aqui para baixar](https://github.com/K-K-Coder-debug/cipher-master/releases/download/cipher-master/cypher-master-x64.exe) |
 | 🐧 Linux | [Clique aqui para baixar](https://github.com/K-K-Coder-debug/cipher-master/releases/tag/cipher-master/cypher-master.py) |
 
 
