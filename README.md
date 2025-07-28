@@ -14,7 +14,7 @@
 - ✅ **Modo Decifra** com brute force incluso
 - ✅ Interface GUI com **tema hacker verde neon**
 - ✅ Compatível com **Windows e Linux**
-- ✅ **Compilado em `.exe`** via `pyinstaller`, `.py` para Mac e `.AppImage` para Linux (mas pode usar o `.py` no Linux)
+- ✅ **Compilado em `.exe`** via `pyinstaller` e `.py` para Linux e Mac
 
 ---
 
