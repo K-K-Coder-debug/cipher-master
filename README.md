@@ -59,7 +59,7 @@ Passos:
 ```bash
 git clone https://github.com/K-K-Coder-debug/cipher-master.git
 cd cipher-master
-python3 cipher_master_gui.py
+python3 cypher-master.py
 ```
 #### 💡 No macOS, se houver erro sobre display, use python3 -m tkinter para checar se o Tkinter está funcionando.
 
@@ -74,6 +74,8 @@ Obs: No momento, o Cipher Master só usa bibliotecas nativas do Python (sem depe
 Para compilar:
 Windows
 ```bash
+# clone o repositorio
+git clone https://github.com/K-K-Coder-debug/cipher-master.git
 # Instale dependências
 pip install pyinstaller
 # E ADICIONE O PATH NAS VARIAVEIS DE AMBIENTE
