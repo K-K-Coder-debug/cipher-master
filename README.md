@@ -58,9 +58,14 @@ Tkinter (normalmente já vem com Python).
 Passos:
 ```bash
 git clone https://github.com/K-K-Coder-debug/cipher-master.git
+```
+```bash
 cd cipher-master
+```
+```bash
 python3 cypher-master.py
 ```
+
 #### 💡 No macOS, se houver erro sobre display, use python3 -m tkinter para checar se o Tkinter está funcionando.
 
 ### ✅ Requisitos Python:
@@ -73,20 +78,15 @@ Obs: No momento, o Cipher Master só usa bibliotecas nativas do Python (sem depe
 
 ### Para compilar:
 #### Windows
-`clone o repositorio`
 ```bash
 git clone https://github.com/K-K-Coder-debug/cipher-master.git
 ```
-`Instale dependências`
 ```bash
 pip install pyinstaller
-# E ADICIONE O PATH NAS VARIAVEIS DE AMBIENTE
 ```
-`Compile no Windows`
 ```bash
 pyinstaller --onefile cypher-master.py --noconsole --windowed
 ```
-`Rode o app`
 ```bash
 cd dist
 ```
