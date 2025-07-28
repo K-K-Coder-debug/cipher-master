@@ -71,18 +71,24 @@ pip install -r requirements.txt
 Obs: No momento, o Cipher Master só usa bibliotecas nativas do Python (sem dependências externas).
 ## 🧪 Build Manual
 
-Para compilar:
-Windows
+### Para compilar:
+#### Windows
 ```bash
 # clone o repositorio
 git clone https://github.com/K-K-Coder-debug/cipher-master.git
+
 # Instale dependências
 pip install pyinstaller
 # E ADICIONE O PATH NAS VARIAVEIS DE AMBIENTE
 
 # Compile no Windows
 pyinstaller --onefile cypher-master.py --noconsole --windowed
+
+# Rode o app
+cd dist
+cypher-master.exe
 ```
+#### Linux Appimage
 ## Feito com 💚 por [K_KCoder](https://github.com/K-K-Coder-debug).
 Você pode usar, modificar e distribuir livremente.
 Se gostou, deixe uma ⭐ no projeto!
