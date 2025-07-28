@@ -14,7 +14,7 @@
 - ✅ **Modo Decifra** com brute force incluso
 - ✅ Interface GUI com **tema hacker verde neon**
 - ✅ Compatível com **Windows e Linux**
-- ✅ **Compilado em `.exe`** via `pyinstaller` e `.py` para Linux e Mac
+- ✅ **Compilado em `.exe`** via `pyinstaller`, `.py` para Mac e `.AppImage` para Linux (mas pode usar o `.py` no Linux)
 
 ---
 
@@ -73,19 +73,24 @@ Obs: No momento, o Cipher Master só usa bibliotecas nativas do Python (sem depe
 
 ### Para compilar:
 #### Windows
+`clone o repositorio`
 ```bash
-# clone o repositorio
 git clone https://github.com/K-K-Coder-debug/cipher-master.git
-
-# Instale dependências
+```
+`Instale dependências`
+```bash
 pip install pyinstaller
 # E ADICIONE O PATH NAS VARIAVEIS DE AMBIENTE
-
-# Compile no Windows
+```
+`Compile no Windows`
+```bash
 pyinstaller --onefile cypher-master.py --noconsole --windowed
-
-# Rode o app
+```
+`Rode o app`
+```bash
 cd dist
+```
+```bash
 cypher-master.exe
 ```
 #### Linux Appimage
